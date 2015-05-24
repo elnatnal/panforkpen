@@ -158,6 +158,13 @@ HEADER STYLES
 
 	#logo {
 		margin: 0.75em 0;
+		display: block;
+	 	text-indent: -9999px;
+		width: 555px;
+		height: 144px;
+		backiground: url('./images/pfp-logo.svg');
+		background-size: 555px 144px;
+
 
 		a {
 			color: $white;

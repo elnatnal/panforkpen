@@ -1358,12 +1358,20 @@ h5, .h5 {
 HEADER STYLES
 *********************/
 .header {
-  background-color: #323944; }
+  background-color: yellow; }
 
 #logo {
   margin: 0.75em 0; }
   #logo a {
-    color: white; }
+    color: white; 
+    display: block;
+    text-indent: -9999px;
+    width: 555px;
+    height: 144px;
+    background: url('../images/pfp--logo.png');
+    background-size: 555px 144px;
+    margin:0 auto;
+}
 
 /*********************
 NAVIGATION STYLES
