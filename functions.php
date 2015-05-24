@@ -1,10 +1,7 @@
 <?php
 /*
-Author: Eddie Machado
-URL: http://themble.com/bones/
-
 This is where you can drop your custom functions or
-just edit things like thumbnail sizes, header images,
+ just edit things like thumbnail sizes, header images,
 sidebars, comments, etc.
 */
 
